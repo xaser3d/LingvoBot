@@ -179,7 +179,7 @@ header nav ul li a:hover {
 }
 .slick-dots li button {
   width: 16px;
-  height: 16px;
+  
   border: none;
   cursor: pointer;
   border-radius: 50%;
