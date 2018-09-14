@@ -83,7 +83,7 @@ header nav ul li a:hover {
 
 .slick-slide {
   position: relative;
-  height: 38vw;
+  height: 30vw;
 }
 .slick-slide::before {
   background-color: #000;
