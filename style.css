@@ -83,7 +83,7 @@ header nav ul li a:hover {
 
 .slick-slide {
   position: relative;
-  width: 60%;
+  width: 100%;
   height: 25vw;
 }
 .slick-slide::before {
