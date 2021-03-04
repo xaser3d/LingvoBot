@@ -9593,3 +9593,15 @@ pre {
 .hljs-chunk {
   color: #aaa;
 }
+
+html,
+body{
+  height: 100%;
+}
+.aligner {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
