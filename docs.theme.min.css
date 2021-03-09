@@ -7678,7 +7678,7 @@ blockquote,blockquote p {
 .vcard {
   display: inline-block;
   margin: 0 0 1.25rem 0;
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
   padding: .625rem .75rem;
 }
 
